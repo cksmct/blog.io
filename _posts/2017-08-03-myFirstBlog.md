@@ -3,7 +3,7 @@ layout: post
 title: 第一篇Blog
 date: 2017-08-03
 categories: blog
-tags: [写作，总结,知识管理，记录生活的点点滴滴]
+tags: [写作，总结, 知识管理，记录生活的点点滴滴]
 description: 我重新开始写Blog了
 ---
 
