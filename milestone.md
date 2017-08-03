@@ -6,11 +6,6 @@ header-img: "img/zhihu.jpg"
 ---
 
 
-<center>
-    <p><img src="img/ct.jpg" align="center"></p>
-</center>
-
-
 
 
 
