@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: CT的博客
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "CT|记录生活的点点滴滴"  
 baseurl: ""
 url: "http://cnfeat"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " CT "
+  email: 1157534259@qq.com
+  bio: "记录生活的点点滴滴"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
