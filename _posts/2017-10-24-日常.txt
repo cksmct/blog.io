@@ -13,7 +13,10 @@ description: 流水账
 
 中午外卖叫的脆皮鸡饭却很好吃。
 
-https://www.youtube.com/playlist?list=PLm7dDCs_gFwNA2vHDAsgx9Yz0qEzr8gIB
+https://www.youtube.com/watch?v=D_9GOfRjLZY&index=11&list=PLboXykqtm8dzPyvqvju78VcIWJZXAQh1v
+
+https://www.youtube.com/watch?v=YyCl_Xg4mxM&list=PLgtYBAm7mQcg0Dq5bPgJwn9vDmycHcrni
+
 
 要按照这个来学习，不然按手册学太没效率了。
 
