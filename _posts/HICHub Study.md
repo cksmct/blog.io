@@ -7,6 +7,8 @@ tags: [记录生活的点点滴滴]
 description: 流水账
 ---
 
+http://mysite13.htc.com/personal/china_jerry_ren/_layouts/15/WopiFrame2.aspx?sourcedoc=/personal/china_jerry_ren/Documents/Transfered%20Items%20List.xlsx&action=default
+
 1 
 
 [Log] collection log pattern
